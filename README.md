@@ -8,28 +8,31 @@ Calculator application written in plain HTML+CSS+JavaScript+PHP
   - The calculator layout uses the CSS3 FlexBox layout
   - Use Touch.js to handle touch detecting on mobile devices.
   - Ajax is used to store values in Database
+<br />
 
-.
-+-- css
-|   +-- calc.css
-+-- db
-|   +-- calci.sql
-+-- font
-|   +-- iconfont.css
-|   +-- iconfont.eot
-|   +-- iconfont.svg
-|   +-- iconfont.ttf
-|   +-- iconfont.woff
-+-- js
-|   +-- calc.js
-|   +-- common.js
-|   +-- jquery.min.js
-|   +-- zepto
-|   |   +-- fx.js
-|   |   +-- touch.js
-|   |   +-- zepto.min.js
-+-- save.php
-+-- index.php
+## Folder Structure
+.<br />
++-- css<br />
+|   +-- calc.css<br />
++-- db<br />
+|   +-- calci.sql<br />
++-- font<br />
+|   +-- iconfont.css<br />
+|   +-- iconfont.eot<br />
+|   +-- iconfont.svg<br />
+|   +-- iconfont.ttf<br />
+|   +-- iconfont.woff<br />
++-- js<br />
+|   +-- calc.js<br />
+|   +-- common.js<br />
+|   +-- jquery.min.js<br />
+|   +-- zepto<br />
+|   |   +-- fx.js<br />
+|   |   +-- touch.js<br />
+|   |   +-- zepto.min.js<br />
++-- save.php<br />
++-- index.php<br />
+<br />
 
 # DataBase comand
 ```
