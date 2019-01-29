@@ -1,7 +1,5 @@
 # calculator
 
-# Dillinger
-
 Calculator application written in plain HTML+CSS+JavaScript+PHP
 
   - Pure HTML, CSS, JS, JQuery and PHP
