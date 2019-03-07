@@ -25,7 +25,7 @@
 		<meta name="Description" content="Web Calculator">
 		<meta http-equiv="Page-Enter" contect="revealTrans(duration=10,transtion= 50)">
 		<meta http-equiv="Page-Exit" contect="revealTrans(duration=20,transtion=6)">
-		<link rel="stylesheet" href="css/calc.css?t=20160810215148" />
+		<link rel="stylesheet" href="css/calc.css" />
 	</head>
 
 	<body>
@@ -94,7 +94,7 @@
 		<script src="js/zepto/fx.js"></script>
 		<script src="js/zepto/touch.js"></script>
 		<script src="js/common.js"></script>
-		<script src="js/calc.js?t=20160810215148"></script>
+		<script src="js/calc.js"></script>
 	</body>
 
 </html>
