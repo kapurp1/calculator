@@ -50,7 +50,7 @@ function clickFunc(){
             };*/
             xhttp.open("POST", "save.php", true);
             xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-            xhttp.send("expression='"+jsonStr+"'&value="+y);
+            xhttp.send("expression='"+encodeURIComponent(jsonStr)+"'&value="+y);
     }
 
     /*** history record ***/
